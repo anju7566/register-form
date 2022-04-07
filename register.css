@@ -1,0 +1,89 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10%;
+}
+.form{
+    display: flex;  
+}
+.form-cont{
+   margin: 10px; 
+  background-color: rgb(44, 44, 79);
+height: fit-content;
+    
+}
+.form-des h2{
+    color: aliceblue; 
+}
+.form-des p{
+    color: aliceblue;
+    font-size: 20px; 
+     margin: 10px;
+} 
+.image-des{
+    color: aliceblue;
+ 
+    font-size: 20px;
+
+     display: flex;
+    justify-content: center; 
+}
+.image{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.image img{
+   
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+}
+.image p{
+    color:white;
+    font-size: 20px;
+}
+.name{
+   color: aliceblue;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+.form2{
+    box-shadow: 3px 1px 2px  gray;
+height: 390px;
+}
+.form2-cont p{
+font-size: 20px;
+margin: 4px;
+}
+.label{
+    margin: 4px;
+}
+.label input{
+    padding: 6px;
+    margin: 5px;
+}
+.last-des{
+    font-size: 20px;
+}
+button{
+    background-color: blue;
+    padding: 7px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+}
+.label2 input{
+    width:85%;
+    padding:7px;
+    margin:10px;
+}
